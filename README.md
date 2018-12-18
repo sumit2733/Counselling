@@ -13,3 +13,6 @@
  2) Import the database using the Counselling.sql file
  3)make sure your phpmyadmin username is 'root' and password is ''(blank)     
  4)COPY all the files to your localhost any you are ready to go. 
+
+
+![alt text](https://github.com/sumit2733/Counselling/blob/master/images/Screenshot%20from%202018-12-18%2020-52-55.png)
